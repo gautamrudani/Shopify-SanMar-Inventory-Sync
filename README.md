@@ -26,4 +26,4 @@ This PHP script connects your Shopify store with SanMar's Inventory Service usin
 ## Example
 Set up a cron job to run this script every hour:
 ```sh
-0 * * * * php /path/to/your/script/opti1shopify.php
+0 * * * * php /path/to/your/script/ShopifySanMarInventorySync.php
